@@ -552,11 +552,11 @@
         color: #1abc9c;
         font-size: 2rem;
     }
-     .list-view-p-code p {
+     .list-view-p-code p a {
         text-decoration: none;
         color: #1abc9c;
     }
-    .productcode h3 {
+    .productname h3 a {
         text-decoration: none;
         color: black;
     }
