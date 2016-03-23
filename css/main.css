@@ -552,6 +552,14 @@
         color: #1abc9c;
         font-size: 2rem;
     }
+     .list-view-p-code p {
+        text-decoration: none;
+        color: #1abc9c;
+    }
+    .productcode h3 {
+        text-decoration: none;
+        color: black;
+    }
     
     .height_auto {
         height: auto;
